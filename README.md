@@ -1,6 +1,6 @@
 # Hand Tracking and Landmark Detection using OpenCV and MediaPipe
 
-This project implements a real-time hand tracking and landmark detection system using OpenCV for video capture and MediaPipe for processing and drawing hand landmarks. The system detects hand gestures in a video stream and displays real-time coordinates for each hand landmark, along with the frame rate (FPS).
+This project implements a real-time hand tracking and landmark detection system using OpenCV for video capture and MediaPipe for processing and drawing hand landmarks. The system detects hand gestures in a video stream and displays real-time coordinates for each hand landmark along with the frame rate (FPS).
 
 ## Features
 
